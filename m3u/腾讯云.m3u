@@ -69,6 +69,10 @@ http://keonline.shanghai.liveplay.qq.com/live/program/live/jswshd/1300000/mnf.m3
 http://keonline.shanghai.liveplay.qq.com/live/program/live/szwshd/1300000/mnf.m3u8
 #EXTINF:-1 ,广东卫视高清
 http://keonline.shanghai.liveplay.qq.com/live/program/live/gdwshd/1300000/mnf.m3u8
+#EXTINF:-1 ,珠江卫视
+http://nclive.grtn.cn/zjpd/playlist.m3u8
+#EXTINF:-1 ,珠江卫视
+http://gdhj.chinashadt.com:2035/live/6.stream/chunklist_w2139490375.m3u8
 #EXTINF:-1 ,黑龙江卫视高清
 http://keonline.shanghai.liveplay.qq.com/live/program/live/hljwshd/1300000/mnf.m3u8
 #EXTINF:-1 ,五星体育高清
